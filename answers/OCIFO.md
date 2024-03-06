@@ -4,15 +4,15 @@
 - Which among the following is the DNS server that takes website name or URL requests from users and checks the records attained obtained from authoritative DNS servers for the associated IP address?
 	- **Recursive DNS**
 - True or False:  Default NS and SOA records are automatically generated when a Zone is created. 
-	- **True
+	- **True**
 
 #### Section 14
 - Which among the following is not one of the components of the health checks service? 
-	- **Child Zone
+	- **Child Zone**
 - True or False: Conditional steering can be used for zero rating services so that preferred ASNs can be directed to free resources while all other traffic can be directed to paid resources. 
 	- **True**
 - Which among the following is not the common use case for DNS Traffic Management? 
-	- **Transaction based Steering 
+	- **Transaction based Steering**
 
 #### Section 15
 - Which among the following is not the common use case for OCI WAF? 
@@ -82,19 +82,19 @@
 - True or False: After a key vault is deleted, it cannot be recovered. 
 	- **Ture**
 - Which of the following are Key Management (OCI Vault) capabilities? Choose all that apply.
-	- **Create keys/quickly disable keys (so they can’t be used by anyone)/re-enable disabled keys
-	- **Create highly available key vaults to durably store your encryption keys
-	- **Rotate your keys to meet your security governance and regulatory compliance needs 
+	- **Create keys/quickly disable keys (so they can’t be used by anyone)/re-enable disabled keys**
+	- **Create highly available key vaults to durably store your encryption keys**
+	- **Rotate your keys to meet your security governance and regulatory compliance needs** 
 
 #### Section 25
 - OCI Budgets are used to achieve which of the following? Choose the 2 best options.
 	- **Set alerts on your budgets at predefined thresholds to get notified**
 	- **Track actual and forecasted spending for the entire tenancy or per compartment**
 - Using compartment quotas administrators can limit usage of resources per which of the following?
-	- **Region
-	- **Tenancy
-	- **Compartment
-	- **Availability Domain
+	- **Region**
+	- **Tenancy**
+	- **Compartment**
+	- **Availability Domain**
 
 #### Section 26
 - True or False: You must have a Valid CSI and Support Account in order to submit a Service Request.
