@@ -1,3 +1,7 @@
+# ADFo
+
+>The test contains total of **39** *True or False* questions, **28** out of them are **True**, so if you don't know the answer for a *True or False* question it's more likely the *True* answer will be correct.
+
 ## Section 4
 
 #### Application Builder form types:
@@ -28,7 +32,7 @@
 
     **True**
 
-- Forms can enable users to update multiple rows in a table.  True or False?
+- Forms can enable users to update multiple rows in a table?
 
 	**True**
 
@@ -45,13 +49,17 @@
 
     **True**
 
-- Forms are made up of types.  True or False?
+- Forms are made up of types?
 
 	**False**
 
 - When you submit a page, the Application Express engine is running which of the following?
 
     **Accept Page.**
+
+-  When you request a page using a URL, the Application Express engine is running which of the following?
+
+	**Show Page.**
 
 - In Application Builder, a branch is an instruction to go to a specific page, procedure, or URL?
 
@@ -122,7 +130,7 @@
 
 	**SQL Query**
 
-- In Application Builder, you cannot use buttons to perform a Dynamic Action.  True or False?
+- In Application Builder, you cannot use buttons to perform a Dynamic Action?
 
 	**False**
 
@@ -130,7 +138,7 @@
 
 	**A Dynamic list.**
 
-- In Application Builder, you can use buttons to direct users to a specific page or URL, or to post or process information.  True or False?
+- In Application Builder, you can use buttons to direct users to a specific page or URL, or to post or process information?
 
 	**True**
 
@@ -138,7 +146,7 @@
 
 	**Automatic Row Processing**
 
-- When you create a branch, you must specify a Branch Point and Branch Type.  True or False?
+- When you create a branch, you must specify a Branch Point and Branch Type?
 
 	**True**
 
@@ -146,7 +154,7 @@
 
 	**A Page-rendering computation.**
 
- - A validation is used in an application form page to ensure integrity of the data entered by users.  True or False?
+ - A validation is used in an application form page to ensure integrity of the data entered by users?
 
 	**True**
 
@@ -179,7 +187,7 @@
 
 	- **All of the above**
 
- - A master detail form reflects a one-to-many relationship between two tables.  True or False?
+ - A master detail form reflects a one-to-many relationship between two tables?
 
 	**True**
 
@@ -264,10 +272,6 @@
 
     **All of the above.**
 
-- Benda bendí. True or False?
-
-	**True**
-
 - **Authorization** defines who you are whilst Authentication defines What are you allowed to do after logging in?
 
 	**False**
@@ -284,7 +288,7 @@
 
 	**Pull down menu**
 
-- Shared components can only be added to one page within your application.  True or False?
+- Shared components can only be added to one page within your application?
 
 	**False**
 
@@ -292,7 +296,7 @@
 
 	**Standard Themes**
 
-- A theme identifies a collection of templates which define the look and feel of the application.  True or False?
+- A theme identifies a collection of templates which define the look and feel of the application?
 
 	**True**
 
@@ -443,7 +447,7 @@
 
 	- **False**
 
-- Application Builder includes a built-in wizard for generating a tree that displays a hierarchical view.  True or False?
+- Application Builder includes a built-in wizard for generating a tree that displays a hierarchical view?
 
 	**True**
 
@@ -455,11 +459,11 @@
 
 	**AnyChart Chart**
 
-- Dynamic actions provide you a way to define complex client-side behavior declaratively without the need to know or code JavaScript or AJAX.  True or False?
+- Dynamic actions provide you a way to define complex client-side behavior declaratively without the need to know or code JavaScript or AJAX?
 
 	**True**
 
-- The use of a Dynamic Action will increase your overall page size.  True or False?
+- The use of a Dynamic Action will increase your overall page size?
 
 	**True**
 
@@ -470,6 +474,10 @@
 - Which of the following is not a step required when migrating an application between environments?
 
 	**Recreate Application**
+
+- Which of the following steps are required to be defined when creating a Dynamic Action?
+
+	**All of the above.**
 
 - A Dynamic Action can be specified to fire on all of the following events except
 
