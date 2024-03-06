@@ -92,7 +92,7 @@
 
 - In Application builder, a list based on predefined pairs of display values and return values is known as?
 
-    - A Static List.
+    - **A Static List.**
 
 - Which of the following are an item in Application Builder?
 
@@ -156,28 +156,28 @@
 
 - Application Builder provides which of the following form types?
 
-	- **All of the above
+	- **All of the above**
 
 - Forms can be created in Application Builder suing which of the following methods?
 
-	- **Both, manually and using a Wizard
+	- **Both, manually and using a Wizard**
 
 - Validations specific to a single item in Application Builder are defined as which of the following?
 
-	- **Page Item Validation
+	- **Page Item Validation**
 
 - Which of the following are types of Page process in Application Builder?
 
-	- **Automatic Row Processing
-	- **Automatic Row Fetch
+	- **Automatic Row Processing**
+	- **Automatic Row Fetch**
 
 - A computation is a logic that assigns values to a single item?
 
-	- **True
+	- **True**
 
 - Which of the following are database application page controls in Application Builder?
 
-	- **All of the above
+	- **All of the above**
 
  - A master detail form reflects a one-to-many relationship between two tables.  True or False?
 
@@ -223,7 +223,7 @@
 
 - Template options provide a declarative way for developers to apply different styles to components on an application page?
 
-	- **True
+	- **True**
 
 #### Shared component type definitions:
 
@@ -271,7 +271,7 @@
 
 - **Authentication** defines who you are whilst Authorization defines What are you allowed to do after logging in
 
-	**True
+	**True**
 
 - Which of the following Access Control would be set to enable only users defined in the access control list access to an application?
 
@@ -302,12 +302,12 @@
 
 - In Application Builder you can create which types of Lists?
 
-	- **Dynamic Lists
-	- **Static Lists
+	- **Dynamic Lists**
+	- **Static Lists**
 
 - Which of the following Access Control would be set to enable all users access to an application
 
-	- **Full access to all
+	- **Full access to all**
 
 - You can apply an authorization scheme for?
 
@@ -421,20 +421,20 @@
 
 - Which of the following are the correct order of steps to migrate an application between environments
 
-	- **Export, Import, Recreate Objects, Populate Tables, Test.
+	- **Export, Import, Recreate Objects, Populate Tables, Test.**
 
 - You cannot migrate an APEX application from your environment to the following?
 
-	- **An earlier version of APEX
+	- **An earlier version of APEX**
 
 - Application Builder supports which of the following types of calendars?
 
-	- **Custom Calendar
-	- **Calendar
+	- **Custom Calendar**
+	- **Calendar**
 
 - Which of the following calendar types is template-based and may be deprecated in the future release?
 
-	- **Legacy Calendar
+	- **Legacy Calendar**
 
 - Developers can only use a plug-in in the workspace it is created for?
 
