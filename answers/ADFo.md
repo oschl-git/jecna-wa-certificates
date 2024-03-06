@@ -196,6 +196,9 @@
 
 	**All of the above.**
 
+- Application Builder allows which of the following data sources when creating a form
+
+	**All of the above**
 ## Section 5
 
 - Which of the following themes can a Workspace administrator create?
@@ -460,3 +463,14 @@
 
 	**True**
 
+- An application written in Application Express is stored as meta-data in the Oracle Database?
+
+	**True**
+
+- Which of the following is not a step required when migrating an application between environments?
+
+	**Recreate Application**
+
+- A Dynamic Action can be specified to fire on all of the following events except
+
+	**User Event**
