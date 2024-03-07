@@ -28,15 +28,15 @@
 
     **True**
 
-- Once a form is created, you cannot re-arrange form fields?
+- Once a form is created, you cannot re-arrange form fields. True or False?
 
     **False**
 
-- Forms can enable users to update a single row in a table?
+- Forms can enable users to update a single row in a table. True or False?
 
     **True**
 
-- Forms can enable users to update multiple rows in a table?
+- Forms can enable users to update multiple rows in a table. True or False?
 
 	**True**
 
@@ -45,11 +45,11 @@
     - **Manually.**
     - **Using a Wizard.**
 
-- Forms are made up of fields, called items?
+- Forms are made up of fields, called items. True or False?
 
     **True**
 
-- Forms are made up of types?
+- Forms are made up of types. True or False?
 
 	**False**
 
@@ -61,7 +61,7 @@
 
 	**Show Page.**
 
-- In Application Builder, a branch is an instruction to go to a specific page, procedure, or URL?
+- In Application Builder, a branch is an instruction to go to a specific page, procedure, or URL. True or False?
 
     - **True**
 
@@ -74,11 +74,11 @@
 
     **Automatic Row Fetch.**
 
-- A page process is a **specific** event that runs when a page is loaded or submitted?
+- A page process is a **specific** event that runs when a page is loaded or submitted. True or False?
 
     **True**
 
-- A page process is a **series** of event that run when a page is loaded or submitted?
+- A page process is a **series** of event that run when a page is loaded or submitted. True or False?
 
     **False**
 
@@ -114,15 +114,15 @@
 
     **Do nothing.**
 
-- In Application Builder, You can reference item values stored in session state in regions, computations, processes, validation, and branches?
+- In Application Builder, You can reference item values stored in session state in regions, computations, processes, validation, and branches. True or False?
 
     **True**
 
-- A list of values (LOV**e**) is a static or dynamic set of values used to display a specific type of page item?
+- A list of values (LOV**e**) is a static or dynamic set of values used to display a specific type of page item. True or False?
 
     **True**
 
-- In Application Builder, an item is part of an HTML form?
+- In Application Builder, an item is part of an HTML form. True or False?
 
     **True**
 
@@ -130,7 +130,7 @@
 
 	**SQL Query**
 
-- In Application Builder, you cannot use buttons to perform a Dynamic Action?
+- In Application Builder, you cannot use buttons to perform a Dynamic Action. True or False?
 
 	**False**
 
@@ -138,7 +138,7 @@
 
 	**A Dynamic list.**
 
-- In Application Builder, you can use buttons to direct users to a specific page or URL, or to post or process information?
+- In Application Builder, you can use buttons to direct users to a specific page or URL, or to post or process information. True or False?
 
 	**True**
 
@@ -146,7 +146,7 @@
 
 	**Automatic Row Processing**
 
-- When you create a branch, you must specify a Branch Point and Branch Type?
+- When you create a branch, you must specify a Branch Point and Branch Type. True or False?
 
 	**True**
 
@@ -154,7 +154,7 @@
 
 	**A Page-rendering computation.**
 
- - A validation is used in an application form page to ensure integrity of the data entered by users?
+ - A validation is used in an application form page to ensure integrity of the data entered by users. True or False?
 
 	**True**
 
@@ -179,7 +179,7 @@
 	- **Automatic Row Processing**
 	- **Automatic Row Fetch**
 
-- A computation is a logic that assigns values to a single item?
+- A computation is a logic that assigns values to a single item. True or False?
 
 	- **True**
 
@@ -187,7 +187,7 @@
 
 	- **All of the above**
 
- - A master detail form reflects a one-to-many relationship between two tables?
+ - A master detail form reflects a one-to-many relationship between two tables. True or False?
 
 	**True**
 
@@ -204,7 +204,7 @@
 
 	**All of the above.**
 
-- Application Builder allows which of the following data sources when creating a form
+- Application Builder allows which of the following data sources when creating a form.
 
 	**All of the above**
 ## Section 5
@@ -224,15 +224,15 @@
     - **Modify attributes and see changes applied to your in real time.**
     - **Customize the look and feel of applications.**
 
-- The Universal Theme is a user interface for Application Express that enables developers to build modern web applications without requiring extensive knowledge of HTML, CSS, or JavaScript?
+- The Universal Theme is a user interface for Application Express that enables developers to build modern web applications without requiring extensive knowledge of HTML, CSS, or JavaScript. True or False?
 
     **True**
 
-- Shared components can only be added to one any page within your application?
+- Shared components can only be added to one any page within your application. True or False?
 
     **False**
 
-- Template options provide a declarative way for developers to apply different styles to components on an application page?
+- Template options provide a declarative way for developers to apply different styles to components on an application page. True or False?
 
 	- **True**
 
@@ -256,7 +256,7 @@
 
 ---
 
-- Shared components are common elements that can display or be applied on any page within an application?
+- Shared components are common elements that can display or be applied on any page within an application. True or False?
 
     **True**
 
@@ -272,11 +272,11 @@
 
     **All of the above.**
 
-- **Authorization** defines who you are whilst Authentication defines What are you allowed to do after logging in?
+- **Authorization** defines who you are whilst Authentication defines What are you allowed to do after logging in. True or False?
 
 	**False**
 
-- **Authentication** defines who you are whilst Authorization defines What are you allowed to do after logging in
+- **Authentication** defines who you are whilst Authorization defines What are you allowed to do after logging in. True or False?
 
 	**True**
 
@@ -288,7 +288,7 @@
 
 	**Pull down menu**
 
-- Shared components can only be added to one page within your application?
+- Shared components can only be added to one page within your application. True or False?
 
 	**False**
 
@@ -296,7 +296,7 @@
 
 	**Standard Themes**
 
-- A theme identifies a collection of templates which define the look and feel of the application?
+- A theme identifies a collection of templates which define the look and feel of the application. True or False?
 
 	**True**
 
@@ -322,11 +322,11 @@
 
 ## Section 6
 
-- A plug-in is an extension to the built-in types of Application Express?
+- A plug-in is an extension to the built-in types of Application Express. True or False?
 
     **True**
 
-- To use Dynamic actions to define complex client-side behavior declaratively you need to know or code JavaScript or AJAX?
+- To use Dynamic actions to define complex client-side behavior declaratively you need to know or code JavaScript or AJAX. True or False?
 
     **False**
 
@@ -337,11 +337,11 @@
     - **Component Event**
     - **Browser Event**
 
-- A plug-in is one of the built-in types of Application Express?
+- A plug-in is one of the built-in types of Application Express. True or False?
 
     **False**
 
-- Developers can export and import plug-ins to other workspaces?
+- Developers can export and import plug-ins to other workspaces. True or False?
 
     **True**
 
@@ -361,7 +361,7 @@
 
     **All of the above.**
 
-- A tree is a hierarchical navigation mechanism?
+- A tree is a hierarchical navigation mechanism. True or False?
 
     **True**
 
@@ -387,7 +387,7 @@
     - **Calendar.**
     - **Legacy Calendar.**
 
-- When importing an application it is necessary to keep the same Application Id in the target development environment?
+- When importing an application it is necessary to keep the same Application Id in the target development environment. True or False?
 
 	**False**
 
@@ -415,7 +415,7 @@
 
 	**Ensure that the Commission and Hire date fields are enabled only if the Job is SALESMAN.**
 
-- Developers can export and import plug-ins to other workspaces?
+- Developers can export and import plug-ins to other workspaces. True or False?
 
 	**True**
 
@@ -423,7 +423,7 @@
 
 	**Calendar**
 
-- In APEX you add a chart region to your page using Page Designer?
+- In APEX you add a chart region to your page using Page Designer. True or False?
 
 	**True**
 
@@ -444,11 +444,11 @@
 
 	- **Legacy Calendar**
 
-- Developers can only use a plug-in in the workspace it is created for?
+- Developers can only use a plug-in in the workspace it is created for. True or False?
 
-	- **False**
+	**False**
 
-- Application Builder includes a built-in wizard for generating a tree that displays a hierarchical view?
+- Application Builder includes a built-in wizard for generating a tree that displays a hierarchical view. True or False?
 
 	**True**
 
@@ -460,15 +460,15 @@
 
 	**AnyChart Chart**
 
-- Dynamic actions provide you a way to define complex client-side behavior declaratively without the need to know or code JavaScript or AJAX?
+- Dynamic actions provide you a way to define complex client-side behavior declaratively without the need to know or code JavaScript or AJAX. True or False?
 
 	**True**
 
-- The use of a Dynamic Action will increase your overall page size?
+- The use of a Dynamic Action will increase your overall page size. True or False?
 
 	**True**
 
-- An application written in Application Express is stored as meta-data in the Oracle Database?
+- An application written in Application Express is stored as meta-data in the Oracle Database. True or False?
 
 	**True**
 
