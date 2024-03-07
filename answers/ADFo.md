@@ -482,3 +482,5 @@
 - A Dynamic Action can be specified to fire on all of the following events except
 
 	**User Event**
+
+![](MandikHimSelf.jpg)
