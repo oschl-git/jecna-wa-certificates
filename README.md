@@ -6,4 +6,4 @@ Odpovědi na certifikáty, které jsou potřeba pro prominutí praktické maturi
 - [OCIFo I Oracle Cloud Infrastructure Foundations I - Final Exam answers](/answers/OCIFO.md)
 - [ADFo Application Development Foundations Final Exam answers](/answers/ADFo.md)
 
-![Logo](logo.jpg)
+![Logo](images/logo.jpg)
