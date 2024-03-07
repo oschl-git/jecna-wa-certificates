@@ -18,6 +18,10 @@
 
     **Creates a form and list view that enables users to update a single row in a database table.**
 
+- Which of the following statements best describes an Editable Interactive Grid Application Builder form type?
+
+    **Presents users a set of data in a searchable, customizable report.**
+
 ---
 
 - Forms are application components that are used for data input from end users?
@@ -40,10 +44,6 @@
 
     - **Manually.**
     - **Using a Wizard.**
-
-- Which of the following statements best describes an Editable Interactive Grid Application Builder form type?
-
-    **Presents users a set of data in a searchable, customizable report.**
 
 - Forms are made up of fields, called items?
 
