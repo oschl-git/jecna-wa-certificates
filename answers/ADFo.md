@@ -70,17 +70,17 @@
     - **Page Validation.**
     - **Page Item Validation.**
 
-- A page process is a series of event that run when a page is loaded or submitted?
-
-    **False**
-
 - The process to retrieve records from a single database table or view in Application Builder is defined as which of the following?
 
     **Automatic Row Fetch.**
 
-- A page process is a specific event that runs when a page is loaded or submitted?
+- A page process is a **specific** event that runs when a page is loaded or submitted?
 
     **True**
+
+- A page process is a **series** of event that run when a page is loaded or submitted?
+
+    **False**
 
 - Which of the following are types of computations in Application Builder?
 
