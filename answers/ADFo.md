@@ -118,7 +118,7 @@
 
     **True**
 
-- A list of values (LOV) is a static or dynamic set of values used to display a specific type of page item?
+- A list of values (LOV**e**) is a static or dynamic set of values used to display a specific type of page item?
 
     **True**
 
@@ -354,6 +354,7 @@
     **.xml**
 
 - An exported application from APEX is saved as which of the following file types?
+
     **.sql**
 
 - Which of the following are steps required when migrating an application between environments?
