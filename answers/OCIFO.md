@@ -78,6 +78,7 @@
 - You have an instance running in a development compartment that needs to make API calls against other OCI services, but you do not want to configure user credentials or a store a configuration file on the instance. How can you meet this requirement? 
 	- **Create a dynamic group with matching rules to include your instance and write a policy for this dynamic group**
 
+![](../images/jerma985-ohij3dvl5hba1.jpg)
 #### Section 24
 - True or False: After a key vault is deleted, it cannot be recovered. 
 	- **Ture**
