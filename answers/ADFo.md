@@ -1,6 +1,8 @@
 # ADFo
 
 >The test contains total of **39** *True or False* questions, **28** out of them are **True**, so if you don't know the answer for a *True or False* question it's more likely the *True* answer will be correct.
+>
+>Same applies for most of the questions where **"All of the above"** answer appears.
 
 ## Section 4
 
@@ -213,6 +215,14 @@
 
     **Custom Themes.**
 
+- Application Builder supports all of the following types of charts except:
+
+	**User Themes**
+
+- Developers can use template options to complete all of the following except:
+
+	**Upload custom background Images**
+
 - Application Builder supports which of the following types of charts?
 
     - **Chart.**
@@ -253,6 +263,10 @@
 - Which of the following statements best describe Navigation Menu as a Shared Component?
 
 	**A list of links that enables users to navigate the pages in an application. Only supported in applications using the Universal Theme - 42.**
+
+- Which of the following statements best describe Navigation Bar Entries as a Shared Component?
+
+	**Offer users a simple navigation path for moving between pages in an application. Entries can display as a link from an image or text.**
 
 ---
 
@@ -423,6 +437,10 @@
 
 	**Calendar**
 
+- Application Builder supports the following types of charts except for:
+
+	**CustomChart Chart**
+
 - In APEX you add a chart region to your page using Page Designer. True or False?
 
 	**True**
@@ -468,7 +486,8 @@
 
 	**True**
 
-- An application written in Application Express is stored as meta-data in the Oracle Database. True or False?
+- An application written in Appli
+  cation Express is stored as meta-data in the Oracle Database. True or False?
 
 	**True**
 
@@ -484,5 +503,7 @@
 
 	**User Event**
 
+- An exported application from APEX is saved as a .xml file type.  True or False?
 
+	**False**
 ![](../images/jerma985-xwryx5.jpg)
